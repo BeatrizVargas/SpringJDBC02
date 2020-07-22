@@ -2,6 +2,6 @@
 Simple Sample of SpringJDBC with Spring Boot 
 Using one table on Mysql.
 <h1>Structure of the Table Persona</h1>
-![Alt text](https://github.com/BeatrizVargas/SpringJDBC02/blob/master/SpringJDBCModel.png "Database Model") 
+<img src="https://github.com/BeatrizVargas/SpringJDBC02/blob/master/SpringJDBCModel.png"/>
 <h1>Structure of the Project</h1>
-![Alt text](https://github.com/BeatrizVargas/SpringJDBC02/blob/master/SpringJDBCProject'sStructure.png "Project's Structure") 
+<img src="https://github.com/BeatrizVargas/SpringJDBC02/blob/master/SpringJDBCProject'sStructure.png" />
